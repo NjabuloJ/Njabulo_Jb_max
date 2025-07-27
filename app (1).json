@@ -1,8 +1,8 @@
 {
-  "name": "Mercedes",
-  "description": "WhatsApp bot made by Marisel",
+  "name": "Njabulo-Jb",
+  "description": "welcome to WhatsApp bot made by Njabulo Jb ",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["Mercedes"],
+  "keywords": ["Njabulo_Jb_max"],
   "success_url": "/",
 
     "stack": "container",
@@ -66,14 +66,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254740007567"
+      "value": "26777821911"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "Mercedes"
+      "value": "Njabulo Jb"
 
       }, 
 
@@ -106,7 +106,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*Made By Marisel*"
+      "value": "*Made By Njabulo Jb*"
     },
 
       "DELETE_LINKS": {
